@@ -138,4 +138,6 @@ function validarPlanilha() {
     
     };
   };
+
+  ui.alert('Consulta Finalizada!');
 }
